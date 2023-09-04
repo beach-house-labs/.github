@@ -8,4 +8,4 @@ The project is in active development + not quite ready for the world just yet. R
 
 ---
 
-CVDW 2023-09-04: Quick note - if you came to BHL for the [Beach Please](https://github.com/beach-house-labs/beach-please) repo, I've temporarily made it private. I'm working from two different systems so I need to be able to push commits but I don't want half-baked ideas that don't fully work yet bouncing around. I'll switch that repo back to public once the work is more substantially complete. 
+CVDW 2023-09-04: Quick note - if you came to BHL for the [Beach Please](https://github.com/beach-house-labs/beach-please) repo, I've temporarily made it private. I'm working from two different systems so I need to be able to push commits but I don't want half-baked ideas that don't fully work yet bouncing around in the open. I'll switch that repo back to public once the work is more substantially complete. 
